@@ -16,6 +16,7 @@ Some future text here... with pictures !!! \o/
 ## About me
 
 **Who am I ?**
+<a href="https://linkedin.com/in/aberna/"><img src="https://avatars2.githubusercontent.com/u/65243261?s=460&u=52fefb17eb8829b3ea194ae09332189a8f0d998f&v=4" title="LinkedIn" alt="LinkedIn to aberna"></a>
 
 Recently graduated of an University Diploma of Technology in Electrical and Computing Systems Engineering I will continue my educational establishment in Ynov Informatique (ex IngéSup) in Paris next year.
 <br>
@@ -26,8 +27,9 @@ Thanks to my dad I'm in love with IT since my childhood. Since then I've never s
 KEEP learning ! Here is a little list of what I would be improved by working here :
 - Learning how does <a href="https://git-scm.com/" target="_blank">Git</a>, <a href="https://github.com/" target="_blank">GitHub</a> and <a href="https://atom.io/" target="_blank">Atom</a> works
 - Learning how to build nice README.md files
+- Learning how to properly work with a team
 
-**IT knowledge**
+**My IT knowledge**
 
 - Python
 - C
