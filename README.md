@@ -15,9 +15,25 @@ Recently graduated of an University Diploma of Technology in Electrical and Comp
 
 ---
 
+## IT knowledge
+
+- Python
+- C
+- JavaScript
+- Git
+- GitHub
+- Linux
+- Windows
+- FPGA
+- DSP
+- LabVIEW
+- Arduino
+
+---
+
 ## About me
 
-<a href="https://linkedin.com/in/aberna" target="_blank">LinkedIn</a>
+<a href="https://linkedin.com/in/aberna/" target="_blank">LinkedIn</a>
 
 
 Hope you enjoy!
