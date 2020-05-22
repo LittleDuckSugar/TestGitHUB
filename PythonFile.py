@@ -1,7 +1,11 @@
-print("First Python file :")
-print("Work done on the README.md file")
+print("Hello World")
+print()
 
-print("How add and deal with pull request ?")
+print("Log file : ")
+print("Work done on the README.md file")
+print("Think that pull request is understood")
+print("Fixed the issue #2")
+print("What is the difference between the <hr> balise and '---' for the README.md file ?")
 
 message = "Hope you enjoy!"
 

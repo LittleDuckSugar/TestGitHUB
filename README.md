@@ -2,6 +2,10 @@
 
 > First real README.md file
 
+Lets put here the <hr> balise
+<hr></hr>
+<hr>
+
 ## Presentation
 
 **Who am I ?**
