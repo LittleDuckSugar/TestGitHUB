@@ -7,7 +7,7 @@
 
 > This part is more about what I can do on a README.md file rather than introduce why this repository exist
 <br>
-Check out the 'Why am I doing this ?' on the [About Me](#about-me) section
+>Check out the 'Why am I doing this ?' on the [About Me](#about-me) section
 
 Some future text here...
 
@@ -20,7 +20,7 @@ Some future text here...
 
 Recently graduated of an University Diploma of Technology in Electrical and Computing Systems Engineering I will continue my educational establishment in Ynov Informatique (ex IngéSup) in Paris next year.
 <br>
-Thanks to my dad I'm in love with IT since my childhood. Since then I've never stop learning : OSs, programming, data security, etc
+Thanks to my dad I'm in love with IT since my childhood. Since then I've never stop learning : OSs, programming, data security, etc...
 
 **Why am I doing this ?**
 
