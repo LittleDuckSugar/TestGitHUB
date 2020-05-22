@@ -2,9 +2,6 @@
 
 > First real README.md file
 
-Lets put here the <hr> balise
-<hr></hr>
-<hr>
 
 ## Presentation
 
@@ -17,7 +14,7 @@ Recently graduated of an University Diploma of Technology in Electrical and Comp
 - Learning how does <a href="https://git-scm.com/" target="_blank">Git</a>, <a href="https://github.com/" target="_blank">GitHub</a> and <a href="https://atom.io/" target="_blank">Atom</a> works
 - Learning how to build nice README.md files
 
----
+<hr>
 
 ## IT knowledge
 
@@ -28,12 +25,12 @@ Recently graduated of an University Diploma of Technology in Electrical and Comp
 - GitHub
 - Linux
 - Windows
-- FPGA
-- DSP
+- FPGA (Field-programmable gate array)
+- DSP (Digital Signal Processor)
 - LabVIEW
 - Arduino
 
----
+<hr>
 
 ## About me
 
