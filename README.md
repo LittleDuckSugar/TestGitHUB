@@ -6,9 +6,9 @@
 ## Presentation
 
 > This part is more about what I can do on a README.md file rather than introduce why this repository exist <br>
-> Check out the 'Why am I doing this ?' on the [About Me](#about-me) section
+> Check out the 'Why am I doing this ?' on the [About Me](#about-me) section if you want to know more
 
-Some future text here...
+Some future text here... with pictures !!! \o/
 
 <hr>
 
@@ -40,8 +40,10 @@ KEEP learning ! Here is a little list of what I would be improved by working her
 - DSP (Digital Signal Processor)
 - LabVIEW
 - Arduino
+- Linux
+- Windows
 
-Check out my <a href="https://linkedin.com/in/aberna/" target="_blank">LinkedIn</a> for more information about me!
+<a href="https://linkedin.com/in/aberna/" target="_blank">Check out my LinkedIn for more information about me!</a>
 
 <br>
 Hope you enjoy!
