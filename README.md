@@ -5,8 +5,7 @@
 
 ## Presentation
 
-> This part is more about what I can do on a README.md file rather than introduce why this repository exist
-<br>
+> This part is more about what I can do on a README.md file rather than introduce why this repository exist <br>
 > Check out the 'Why am I doing this ?' on the [About Me](#about-me) section
 
 Some future text here...
