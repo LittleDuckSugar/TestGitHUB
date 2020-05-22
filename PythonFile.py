@@ -1,9 +1,7 @@
-print("Fisrt Python file")
+print("First Python file :")
+print("Work done on the README.md file")
 
-test = "banane"
+message = "Hope you enjoy!"
 
-while 1==1:
-    print(test)
-    break
-
-print("Working on the dev branch")
+print()
+print(message)
