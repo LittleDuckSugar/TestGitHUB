@@ -16,7 +16,7 @@ Some future text here... with pictures !!! \o/
 ## About me
 
 **Who am I ?**
-<a href="https://linkedin.com/in/aberna/"><img src="https://avatars2.githubusercontent.com/u/65243261?s=460&u=52fefb17eb8829b3ea194ae09332189a8f0d998f&v=4" title="LinkedIn" width="135" height="135" alt="LinkedIn to aberna" style="vertical-align:middle"></a>
+<a href="https://linkedin.com/in/aberna/"><img src="https://avatars2.githubusercontent.com/u/65243261?s=460&u=52fefb17eb8829b3ea194ae09332189a8f0d998f&v=4" title="LinkedIn" width="135" height="135" alt="LinkedIn to aberna"></a>
 
 Recently graduated of an University Diploma of Technology in Electrical and Computing Systems Engineering I will continue my educational establishment in Ynov Informatique (ex IngéSup) in Paris next year.
 <br>
