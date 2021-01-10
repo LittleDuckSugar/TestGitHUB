@@ -55,7 +55,7 @@ PS C:\VSCODEProjet\Ytrack\B1\ASCII-ART-COLOR\ASCII-COLOR-FS> go run main.go "Hel
 
 If you want to choose another graphical representation for ASCII characters for your text :
  - Type the name of the program, the text between double quotes followed by one of the graphical representation (`standard`, `thinkertoy` or `shadow`)
-
+"\033[38;5;4m"test
 
 ```
 PS C:\VSCODEProjet\Ytrack\B1\ASCII-ART-COLOR\ASCII-COLOR-FS> go run main.go "Hello There" shadow
