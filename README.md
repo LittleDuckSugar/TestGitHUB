@@ -34,7 +34,7 @@ The program can do the following :
 If you want to convert your text in ASCII characters:
  - Type the name of the program and the text between double quotes on the terminal.
 
-```bash
+```
 PS C:\VSCODEProjet\Ytrack\B1\ASCII-ART-COLOR\ASCII-COLOR-FS> go run main.go "Hello There"
  _    _          _   _                 _______   _
 | |  | |        | | | |               |__   __| | |
@@ -49,7 +49,7 @@ If you want to choose another graphical representation for ASCII characters for 
  - Type the name of the program, the text between double quotes followed by one of the graphical representation (`standard`, `thinkertoy` or `shadow`)
 
 
-```console
+```
 PS C:\VSCODEProjet\Ytrack\B1\ASCII-ART-COLOR\ASCII-COLOR-FS> go run main.go "Hello There" shadow
 
 _|    _|          _| _|                _|_|_|_|_| _|
@@ -76,7 +76,7 @@ If you want to add color to your ASCII characters :
     - Press enter if you want to color all of the text 
     - Or, type only the letters you want to be colored (Don't forget to put spaces for the letters that you don't want to color ), the other will stay white by default
 
-```console 
+```
 PS C:\VSCODEProjet\Ytrack\B1\ASCII-ART-COLOR\ASCII-COLOR-FS> go run main.go --color=red "Hello There"  
 
 Comment voulez-vous colorier le mot ?
@@ -91,7 +91,7 @@ Cou eur
 Couleur
 
 Vous aviez originellement entré : Hello There
-Vous voulez colorier :          H l o T e e
+Vous voulez colorier :            H l o T e e
 
  _    _          _   _                 _______   _                           
 | |  | |        | | | |               |__   __| | |                          
@@ -108,7 +108,7 @@ If you want to add a color and choose a graphical representation of ASCII charac
     - Press enter if you want to color all of the text 
     - Or, writes only the letters to be colored (Don't forget to put spaces for the letters that you don't want to color )
 
-```console 
+```
 PS C:\VSCODEProjet\Ytrack\B1\ASCII-ART-COLOR\ASCII-COLOR-FS> go run main.go --color=red "Hello There" shadow 
 
 Comment voulez-vous colorier le mot ?
@@ -123,7 +123,7 @@ Cou eur
 Couleur
 
 Vous aviez originellement entré : Hello There
-Vous voulez colorier :          Hello      
+Vous voulez colorier :            Hello      
 
 _|    _|          _| _|                _|_|_|_|_| _|
 _|    _|   _|_|   _| _|   _|_|             _|     _|_|_|     _|_|   _|  _|_|   _|_|
