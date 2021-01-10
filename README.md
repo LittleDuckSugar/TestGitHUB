@@ -34,7 +34,7 @@ The program can do the following :
 If you want to convert your text in ASCII characters:
  - Type the name of the program and the text between double quotes on the terminal.
 
-```console
+```
 PS C:\VSCODEProjet\Ytrack\B1\ASCII-ART-COLOR\ASCII-COLOR-FS> go run main.go "Hello There"
  _    _          _   _                 _______   _
 | |  | |        | | | |               |__   __| | |
