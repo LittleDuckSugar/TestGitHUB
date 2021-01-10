@@ -31,6 +31,14 @@ The program can do the following :
 
 ### How to use the program ?
 
+It is recommanded to first, build the program and then to run it:
+
+```
+go build main.go
+```
+
+
+
 If you want to convert your text in ASCII characters:
  - Type the name of the program and the text between double quotes on the terminal.
 
